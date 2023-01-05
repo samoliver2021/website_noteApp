@@ -1,3 +1,12 @@
+Website ini dibuat untuk memenuhi tugas akhir dari kursus Belajar Fundamental Aplikasi Web dengan React yang dibuat oleh Dicoding Indonesia.
+
+Website ini bertema aplikasi catatan dan selesai pada tanggal 9 November 2022
+
+Berikut ini adalah sertifikat dari kursus Belajar Dasar Pemrograman Web : https://www.dicoding.com/certificates/1OP850YN8PQK
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
